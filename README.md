@@ -21,6 +21,7 @@
 1.  [Copyrights](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#copyrights)
 1.  [Contact](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#contact)
 1.  [Bugs](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#bugs)
+1.  [Project Status](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#project-status)
 1.  [Acknowledgement](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#acknowledgement)
 1.  [References](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#references)
 
@@ -206,6 +207,9 @@ Feel free to drop an [email](mailto:sowmidevaraj06@gmail.com) for any help.
 
 ## Bugs
 The code is a finalized and free from bugs.
+
+## Project Status
+I am still working on the project to increase the accuracy of the proposed model with different combination of CNN and feature selection methods.
 
 ## Acknowledgement
 I would like to thank Dr. Trevor M. Tomesh for providing me an opportunity to explore my area of interest in deep learning and assisting me throughout this research paper. 
