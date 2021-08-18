@@ -1,16 +1,10 @@
 # Detecting Driver Drowsiness using Behavioral measures and Representation learning: A Deep Learning-based Technique
 **Table of Contents**
 
-[TOCM]
+- [Project Description](# Project Description)
 
-[TOC]
 
-#H1 header
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
+<a name="Project Description"/>
 
 
 ## Project Description
