@@ -11,7 +11,7 @@
     1.  [Tools and Library Requirements](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#tools-and-library-requirements)
 1.  [Installation Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#installation-instructions)
 1.  [Operating Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#operating-instructions)
-1.  [Manifest](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#manifest)
+1.  [Manifesting Directory structure](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#manifesting-directory-structure)
 1.  [Copyrights Information](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#copyrights-information)
 1.  [Contact List](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#contact-list)
 1.  [Bugs](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#bugs)
@@ -167,7 +167,7 @@ The following directory structure is required to replicate exact results acquire
 
 ### Directories and Files
 
-[Cascade_Classifier](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Cascade_Classifier) - A folder containing Haar-Cascade Classifier ".xml" files from officail [OpenCV repository](https://github.com/opencv).
+[Cascade_Classifier](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Cascade_Classifier) - A folder containing Haar-Cascade Classifier ".xml" files from official [OpenCV repository](https://github.com/opencv).
 
 [haarcascade_eye.xml](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Cascade_Classifier/haarcascade_eye.xml) - A ".xml" file to detect the eyes from image.
 
@@ -190,6 +190,7 @@ The following directory structure is required to replicate exact results acquire
 
 
 ## Copyrights Information
+
 ## Contact List
 ## Bugs
 ## Troubleshooting
