@@ -123,6 +123,31 @@ To replicate the exact results acquired from the project:
 
 The following directory structure is required to replicate exact results acquired from the project:
 
+### A typical top-level directory layout
+
+    ..
+    ├── Cascade_Classifier                 
+    │   ├── haarcascade_eye.xml
+    |   └── haarcascade_frontalface_default.xml
+    |
+    ├── Dataset                 
+    │   ├── Eyes
+    |   |    ├── Close_eye
+    |   |    |    ├── ...
+    |   |    └── Open_eye
+    |   |         └── ...   
+    │   └── Face
+    |        ├── no_yawn
+    |        |    ├── ...
+    |        └── yawn
+    |             └── ... 
+    ├── Source_Code   
+    │   ├── Drowsiness_Detection.py 
+    │   └── face_eye_detector.py
+    |
+    ├── LICENSE                     
+    └── README.md
+
 
 
 
