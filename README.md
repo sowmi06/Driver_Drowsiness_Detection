@@ -7,6 +7,8 @@
 
 1.  [Project Description](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#project-description)
 1.  [Configuration Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#configuration-instructions)
+    1.  [System Requirements]()
+    1.  [Tools and Library Requirements]()
 1.  [Installation Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#installation-instructions)
 1.  [Operating Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#operating-instructions)
 1.  [Manifest](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#manifest)
@@ -16,6 +18,7 @@
 1.  [Troubleshooting](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#troubleshooting)
 1.  [Credits](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#credits)
 1.  [Changes logs/news](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#changes-logsnews)
+
 
 
 
@@ -123,7 +126,7 @@ To replicate the exact results acquired from the project:
 
 The following directory structure is required to replicate exact results acquired from the project:
 
-### A typical top-level directory layout
+### Directory layout to repicate results
 
     ..
     ├── Cascade_Classifier                 
@@ -132,15 +135,16 @@ The following directory structure is required to replicate exact results acquire
     |
     ├── Dataset                 
     │   ├── Eyes
-    |   |    ├── Close_eye
-    |   |    |    ├── ...
+    |   |    ├── Close_eye                    
+    |   |    |    ├── ...  # raw images 
     |   |    └── Open_eye
-    |   |         └── ...   
+    |   |         └── ...  # raw images  
     │   └── Face
     |        ├── no_yawn
-    |        |    ├── ...
+    |        |    ├── ...  # raw images 
     |        └── yawn
-    |             └── ... 
+    |             └── ...  # raw images 
+    |  
     ├── Source_Code   
     │   ├── Drowsiness_Detection.py 
     │   └── face_eye_detector.py
@@ -149,8 +153,26 @@ The following directory structure is required to replicate exact results acquire
     └── README.md
 
 
+### Directories and Files
+[Cascade_Classifier](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Cascade_Classifier) - A folder containing Haar-Cascade Classifier ".xml" files from officail [OpenCV repository](https://github.com/opencv).
 
+[haarcascade_eye.xml](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Cascade_Classifier/haarcascade_eye.xml) - A ".xml" file to detect the eyes from image.
 
+[haarcascade_frontalface_default.xml](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Cascade_Classifier/haarcascade_frontalface_default.xml)- A ".xml" file to detect the faces from image.
+
+[Dataset](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset) - A folder with two sub folders containing Eyes and Faces raw images.
+
+[Eyes](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes) - A sub-folder containing raw images of [open](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes/Open_eye) and [close eye](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes/Close_eye).
+
+[Face](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Face) - A sub-folder containing raw images of [yawn](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes/yawn) and [no yawn](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset/Eyes/no_yawn).
+
+[Source_Code](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Source_Code) - A folder containing source code to execude the output.
+
+[Drowsiness_Detection.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py) - A ".py" file containing the proposed model implementation of the drowsiness detection system.
+
+[face_eye_detector.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/face_eye_detector.py) - A ".py" file containing face detector and preprocessing steps.
+
+[Readme.md](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md) - Readme file to execute the project. 
 
 
 
@@ -169,3 +191,4 @@ The following directory structure is required to replicate exact results acquire
 - Scikit learn Installation : https://scikit-learn.org/stable/install.html
 - OpenCv Installation : https://pypi.org/project/opencv-python/
 - Mathplotlib Installation: https://pypi.org/project/matplotlib/
+- Haar cascade classifier souce files: https://github.com/opencv
