@@ -118,8 +118,9 @@ The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requir
 
 ## Installation Instructions
 To work with the project code
-- Clone the [Driver_Drowsiness_Detection](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) repository into your local machine. 
-- Follow the same directory structure from the cloned repository 
+- Clone the [Driver_Drowsiness_Detection](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) repository into your local machine from this link : https://github.com/sowmi06/Driver_Drowsiness_Detection.git
+
+- Follow the same directory structure from the cloned repository. 
 
 
 ## Operating Instructions
