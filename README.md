@@ -1,6 +1,12 @@
-# Detecting Driver Drowsiness using Behavioral measures and Representation learning: A Deep Learning-based Technique
+# Detecting Driver Drowsiness using Behavioral measures and Representation learning: A Deep Learning-based Technique 
+
+![](https://img.shields.io/badge/license-GNU--3.0-green)
+![](https://img.shields.io/github/repo-size/sowmi06/Driver_Drowsiness_Detection)
+![](https://img.shields.io/github/issues/sowmi06/Driver_Drowsiness_Detection)
+![](https://img.shields.io/github/watchers/sowmi06/Driver_Drowsiness_Detection?style=social)
 
 ![](http://www.clipartsuggest.com/images/730/know-drowsy-driving-has-been-a-topic-before-i-wanted-to-reiterate-g97Upj-clipart.gif)
+
 
 
 ## Table of contents
@@ -27,6 +33,11 @@
 The inclining in road accidents is one of the most prevailing problems around the world. The growing number of vehicles on the road has paved a way for many inefficient and inattentive drivers. The key to safe driving and prevention of accidents is predominantly dependent on the driver. Preventing accidents by drowsiness need a technique to detect the factors that cause sleepiness in driver. Drowsiness or sleepiness is a biological state where the body is in transition from an awake state to a sleeping state in which the level of consciousness is reduced due to lack of sleep or fatigue, this causes the driver to fall into sleep quietly. During this stage, a driver is unable to take control of the vehicle and loses consciousness. 
 
 According to statistics from the US NHTSA out of 1,00,000 accidents reported annually, 76,000 crashes are due to drowsiness. In Australia, about 6% of accidents happen due to drowsiness and UK reports approximately 20% of the accidents by fatigue. These statistics infer the importance of a drowsiness detection system is unavoidable and motivated to build a detection system as a precautionary measure to avoid road accidents. A common solution to the drowsiness detection problem is to develop a model that detects the sleepiness in drivers in an early stage to prevent accidents by considering several common signs and alert the driver if any of the signs are frequently detected. This project proposes to develop a robust model to detect the sleepiness in drivers by capturing behavior-based images such as yawning, eye blinking, and head-nodding states. 
+
+
+
+
+
 
 ## Configuration Instructions
 The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requires the following tools and libraries to run the [source code](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py)
@@ -191,6 +202,7 @@ The following directory structure is required to replicate exact results acquire
 
 
 ## Copyrights Information
+[GNU General Public License v3.0](LICENSE) - Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 ## Contact List
 ## Bugs
