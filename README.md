@@ -6,14 +6,14 @@
 ## Table of contents
 
 1.  [Project Description](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#project-description)
-1.  [Configuration Instructions](Configuration-Instructions.md)
-1.  [Installation Instructions](Installation-Instructions.md)
-1.  [Operating Instructions](Operating-Instructions.md)
-1.  [Manifest](Manifest.md)
-1.  [Copyrights Information](Copyrights-Information.md)
-1.  [Contact List](Contact-List.md)
-1.  [Bugs](Bugs.md)
-1.  [Troubleshooting](Troubleshooting.md)
+1.  [Configuration Instructions]()
+1.  [Installation Instructions]()
+1.  [Operating Instructions]()
+1.  [Manifest]()
+1.  [Copyrights Information]()
+1.  [Contact List]()
+1.  [Bugs]()
+1.  [Troubleshooting]()
 1.  [Credits](Credits.md)
 1.  [Changes logs/news](Changes-logs/news.md)
 
@@ -30,9 +30,16 @@ The inclining in road accidents is one of the most prevailing problems around th
 
 According to statistics from the US NHTSA out of 1,00,000 accidents reported annually, 76,000 crashes are due to drowsiness. In Australia, about 6% of accidents happen due to drowsiness and UK reports approximately 20% of the accidents by fatigue. These statistics infer the importance of a drowsiness detection system is unavoidable and motivated to build a detection system as a precautionary measure to avoid road accidents. A common solution to the drowsiness detection problem is to develop a model that detects the sleepiness in drivers in an early stage to prevent accidents by considering several common signs and alert the driver if any of the signs are frequently detected. This project proposes to develop a robust model to detect the sleepiness in drivers by capturing behavior-based images such as yawning, eye blinking, and head-nodding states. 
 
-##
-##
-##
+## Configuration Instructions
+## Installation Instructions
+## Operating Instructions
+## Manifest
+## Copyrights Information
+## Contact List
+## Bugs
+## Troubleshooting
+## Credits
+## Changes logs/news
 ##
 
 
