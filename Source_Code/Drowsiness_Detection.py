@@ -6,16 +6,12 @@ from face_eye_detector import populate_images
 from tensorflow.keras.applications import VGG16, ResNet101
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.layers import Flatten, GlobalAveragePooling2D
-from sklearn.metrics import recall_score, precision_score, confusion_matrix
 from tensorflow.keras.models import Model
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import recall_score, precision_score, confusion_matrix, accuracy_score
+from sklearn.decomposition import PCA
 from sklearn.svm import SVC
 import numpy as np
 import time
-from sklearn.decomposition import PCA
-import seaborn as sns
-import scikitplot as skplt
-import matplotlib.pyplot as plt
 
 
 def image_augmentation(x_train, y_train):
