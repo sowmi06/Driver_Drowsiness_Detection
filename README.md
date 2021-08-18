@@ -117,6 +117,22 @@ The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requir
    
 
 ## Installation Instructions
+To work with the project code
+- Clone the [Driver_Drowsiness_Detection](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) repository into your local machine. 
+- Follow the same directory structure from the cloned repository 
+
+
+## Operating Instructions
+
+The following are the steps to replicate the exact results acquired from the project:
+
+- Satisify all the system and the tool, libraries requirements.
+- Clone the [Driver_Drowsiness_Detection](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) repository into your local machine. 
+- Run the [Drowsiness_Detection.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py) in a python IDE to get the final output
+- Follow the same directory structure from the cloned repository.
+
+
+## Manifesting Directory structure
 
 The following directory structure is required to replicate exact results acquired from the project:
 
@@ -147,6 +163,8 @@ The following directory structure is required to replicate exact results acquire
     └── README.md
 
 
+
+
 ### Directories and Files
 
 [Cascade_Classifier](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Cascade_Classifier) - A folder containing Haar-Cascade Classifier ".xml" files from officail [OpenCV repository](https://github.com/opencv).
@@ -171,17 +189,6 @@ The following directory structure is required to replicate exact results acquire
 
 
 
-## Operating Instructions
-
-The following are the steps to replicate the exact results acquired from the project:
-
-- Satisify all the system and the tool, libraries requirements.
-- Clone the [Driver_Drowsiness_Detection](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) repository into your local machine. 
-- Run the [Drowsiness_Detection.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py) in a python IDE to get the final output
-- Follow the same directory structure from the cloned repository t.
-
-
-## Manifest
 ## Copyrights Information
 ## Contact List
 ## Bugs
