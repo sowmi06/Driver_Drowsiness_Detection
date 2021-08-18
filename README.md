@@ -7,8 +7,8 @@
 
 1.  [Project Description](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#project-description)
 1.  [Configuration Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#configuration-instructions)
-    1.  [System Requirements]()
-    1.  [Tools and Library Requirements]()
+    1.  [System Requirements](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#system-requirements)
+    1.  [Tools and Library Requirements](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#tools-and-library-requirements)
 1.  [Installation Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#installation-instructions)
 1.  [Operating Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#operating-instructions)
 1.  [Manifest](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#manifest)
@@ -117,18 +117,12 @@ The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requir
    
 
 ## Installation Instructions
-To replicate the exact results acquired from the project:
-
-- Satisify all the system and the tool, libraries requirements.
-- Clone the [sowmi06/Driver_Drowsiness_Detection](https://github.com/sowmi06/Driver_Drowsiness_Detection) repository into your local machine. 
-- Run the [Drowsiness_Detection.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py) to get the final output
-- Follow the same directory structure from the cloned repository.
 
 The following directory structure is required to replicate exact results acquired from the project:
 
 ### Directory layout to repicate results
 
-    ..
+    .
     ├── Cascade_Classifier                 
     │   ├── haarcascade_eye.xml
     |   └── haarcascade_frontalface_default.xml
@@ -136,12 +130,12 @@ The following directory structure is required to replicate exact results acquire
     ├── Dataset                 
     │   ├── Eyes
     |   |    ├── Close_eye                    
-    |   |    |    ├── ...  # raw images 
+    |   |    |    └── ...  # raw images 
     |   |    └── Open_eye
     |   |         └── ...  # raw images  
     │   └── Face
     |        ├── no_yawn
-    |        |    ├── ...  # raw images 
+    |        |    └── ...  # raw images 
     |        └── yawn
     |             └── ...  # raw images 
     |  
@@ -154,6 +148,7 @@ The following directory structure is required to replicate exact results acquire
 
 
 ### Directories and Files
+
 [Cascade_Classifier](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Cascade_Classifier) - A folder containing Haar-Cascade Classifier ".xml" files from officail [OpenCV repository](https://github.com/opencv).
 
 [haarcascade_eye.xml](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Cascade_Classifier/haarcascade_eye.xml) - A ".xml" file to detect the eyes from image.
@@ -177,6 +172,15 @@ The following directory structure is required to replicate exact results acquire
 
 
 ## Operating Instructions
+
+The following are the steps to replicate the exact results acquired from the project:
+
+- Satisify all the system and the tool, libraries requirements.
+- Clone the [Driver_Drowsiness_Detection](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) repository into your local machine. 
+- Run the [Drowsiness_Detection.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py) in a python IDE to get the final output
+- Follow the same directory structure from the cloned repository t.
+
+
 ## Manifest
 ## Copyrights Information
 ## Contact List
