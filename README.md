@@ -5,7 +5,7 @@
 
 ## Table of contents
 
-1.  [Project Description]()
+1.  [Project Description](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#project-description)
 1.  [Configuration Instructions](Configuration-Instructions.md)
 1.  [Installation Instructions](Installation-Instructions.md)
 1.  [Operating Instructions](Operating-Instructions.md)
