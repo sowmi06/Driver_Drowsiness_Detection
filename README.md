@@ -27,9 +27,9 @@ According to statistics from the US NHTSA out of 1,00,000 accidents reported ann
 
 ## Configuration Instructions
 The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requires the following tools and libraries to run the [source code](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py)
-### System Requirement
+### System Requirements
 
-- GPU based CUDA®-enabled card  
+- GPU based CUDA®-enabled card (Ubuntu and Windows)
  
 - [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/install/)
     - Python version 3.6.0 – 3.9.0
@@ -41,17 +41,68 @@ The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requir
 - Python IDE (to run ".py" file)
     - [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows), [Spyder](https://www.psych.mcgill.ca/labs/mogillab/anaconda2/lib/python2.7/site-packages/spyder/doc/installation.html) or [VS code](https://code.visualstudio.com/download)
 
-### Tools and Library Requirement
-- [TensorFlow](https://www.tensorflow.org/install/pip) 
+### Tools and Library Requirements 
+- [TensorFlow](https://www.tensorflow.org/install/pip)
+   
+   Installs tensorflow in virtual environment using pip:
+        
+        pip install --upgrade tensorflow
+        
+   To check your tensorflow installation:
+   
+        python -m pip show tensorflow # to see which version and where tensorflow is installed
+        
     
 - [Numpy](https://numpy.org/install/)
 
+  Numpy releases are available as wheel packages for macOS, Windows and Linux on [PyPI](https://pypi.org/project/numpy/). 
+  
+  Install numpy using pip:
+        
+        pip install numpy
+                
+  Install numpy using Conda packages:
+
+        conda install numpy
+  
+  To check your numpy installation:
+   
+        python -m pip show numpy # to see which version and where numpy is installed
+
+   
+
 - [Scikit-learn](https://scikit-learn.org/stable/install.html) 
+  
+  Install scikit-learn using pip:
+        
+        pip install -U scikit-learn
+                
+  To check your scikit-learn installation:
+
+        python -m pip show scikit-learn  # to see which version and where scikit-learn is installed
+     
 
 - [OpenCV](https://pypi.org/project/opencv-python/)
 
+  OpenCv releases are available as wheel packages for macOS, Windows and Linux on [PyPI](https://pypi.org/project/opencv-python/).
+  
+  Install OpenCv using pip:
+        
+        pip install opencv
+                
+  Install OpenCV using Conda packages:
+
+        conda install opencv
+  
+  To check your installation:
+
+        python -m pip show opencv  # to see which version and where opencv is installed
+
+
 - [Matplotlib](https://matplotlib.org/stable/users/installing.html)
-  Matplotlib releases are available as wheel packages for macOS, Windows and Linux on [PyPI](https://pypi.org/project/matplotlib/). 
+
+  Matplotlib releases are available as wheel packages for macOS, Windows and Linux on [PyPI](https://pypi.org/project/matplotlib/).
+  
   Install it using pip:
         
         python -m pip install -U pip
@@ -60,17 +111,24 @@ The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requir
   Install it using Conda packages:
 
         conda install matplotlib
-
-
-
    
 
-
-
-
-
-
 ## Installation Instructions
+To replicate the exact results acquired from the project:
+
+- Satisify all the system and the tool, libraries requirements.
+- Clone the [sowmi06/Driver_Drowsiness_Detection](https://github.com/sowmi06/Driver_Drowsiness_Detection) repository into your local machine. 
+- Run the [Drowsiness_Detection.py](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py) to get the final output
+- Follow the same directory structure from the cloned repository.
+
+The following directory structure is required to replicate exact results acquired from the project:
+
+
+
+
+
+
+
 ## Operating Instructions
 ## Manifest
 ## Copyrights Information
@@ -81,24 +139,8 @@ The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requir
 ## Changes logs/news
 
 ## Reference
-
+- Tensorflow Installation : https://www.tensorflow.org/install/pip#virtual-environment-install
+- Numpy Installation : https://numpy.org/install/
+- Scikit learn Installation : https://scikit-learn.org/stable/install.html
+- OpenCv Installation : https://pypi.org/project/opencv-python/
 - Mathplotlib Installation: https://pypi.org/project/matplotlib/
-
-
-Usage:
-
-    sudo apt-get build-dep qemu
-    ./run
-
-
-
-
-
-
-<!-- 1.  Examples
-    1.  [Host](host/)
-   
-
-
-
-[Dataset](https://github.com/sowmi06/Driver_Drowsiness_Detection/tree/main/Dataset) -->
