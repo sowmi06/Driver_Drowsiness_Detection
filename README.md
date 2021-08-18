@@ -18,12 +18,11 @@
 1.  [Installation Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#installation-instructions)
 1.  [Operating Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#operating-instructions)
 1.  [Manifesting Directory structure](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#manifesting-directory-structure)
-1.  [Copyrights Information](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#copyrights-information)
-1.  [Contact List](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#contact-list)
+1.  [Copyrights](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#copyrights)
+1.  [Contact](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#contact)
 1.  [Bugs](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#bugs)
-1.  [Troubleshooting](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#troubleshooting)
-1.  [Credits](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#credits)
-1.  [Changes logs/news](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#changes-logsnews)
+1.  [Acknowledgement](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#acknowledgement)
+1.  [References](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#references)
 
 
 
@@ -201,16 +200,23 @@ The following directory structure is required to replicate exact results acquire
 
 
 
-## Copyrights Information
-[GNU General Public License v3.0](LICENSE) - Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+## Copyrights
+The project is under the [GNU (General Public License v3.0)](LICENSE). Refer [LICENSE](LICENSE) file for more information.
 
-## Contact List
+## Contact  
+Feel free to drop an [e-mail](sowmidevaraj06@gmail.com) for any help. 
+
 ## Bugs
-## Troubleshooting
-## Credits
-## Changes logs/news
+The code is a finalized and free from bugs.
 
-## Reference
+## Acknowledgement
+I would like to thank Dr. Trevor M. Tomesh for providing me an opportunity to explore my area of interest in deep learning and assisting me throughout this research paper. 
+
+## References 
+- Anaconda Navigator : https://docs.anaconda.com/anaconda/navigator/install/
+- PyCharm IDE Installation : https://www.jetbrains.com/pycharm/download/#section=windows
+- Spyder IDE Installation : https://www.psych.mcgill.ca/labs/mogillab/anaconda2/lib/python2.7/site-packages/spyder/doc/installation.html
+- VS code IDE Installation: https://code.visualstudio.com/download
 - Tensorflow Installation : https://www.tensorflow.org/install/pip#virtual-environment-install
 - Numpy Installation : https://numpy.org/install/
 - Scikit learn Installation : https://scikit-learn.org/stable/install.html
