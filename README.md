@@ -204,7 +204,7 @@ The following directory structure is required to replicate exact results acquire
 The project is under the [GNU (General Public License v3.0)](LICENSE). Refer [LICENSE](LICENSE) file for more information.
 
 ## Contact  
-Feel free to drop an [e-mail](sowmidevaraj06@gmail.com) for any help. 
+Feel free to drop an [email](mailto:sowmidevaraj06@gmail.com) for any help. 
 
 ## Bugs
 The code is a finalized and free from bugs.
