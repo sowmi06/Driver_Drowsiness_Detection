@@ -6,16 +6,16 @@
 ## Table of contents
 
 1.  [Project Description](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#project-description)
-1.  [Configuration Instructions]()
-1.  [Installation Instructions]()
-1.  [Operating Instructions]()
-1.  [Manifest]()
-1.  [Copyrights Information]()
-1.  [Contact List]()
-1.  [Bugs]()
-1.  [Troubleshooting]()
-1.  [Credits](Credits.md)
-1.  [Changes logs/news](Changes-logs/news.md)
+1.  [Configuration Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#configuration-instructions)
+1.  [Installation Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#installation-instructions)
+1.  [Operating Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#operating-instructions)
+1.  [Manifest](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#manifest)
+1.  [Copyrights Information](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#copyrights-information)
+1.  [Contact List](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#contact-list)
+1.  [Bugs](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#bugs)
+1.  [Troubleshooting](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#troubleshooting)
+1.  [Credits](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#credits)
+1.  [Changes logs/news](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#changes-logs/news)
 
 1.  Examples
     1.  [Host](host/)
