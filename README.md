@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/license-GNU--3.0-green)
 ![](https://img.shields.io/github/repo-size/sowmi06/Driver_Drowsiness_Detection)
 ![](https://img.shields.io/github/issues/sowmi06/Driver_Drowsiness_Detection)
-![](https://img.shields.io/github/watchers/sowmi06/Driver_Drowsiness_Detection?style=social)
+
 
 ![](http://www.clipartsuggest.com/images/730/know-drowsy-driving-has-been-a-topic-before-i-wanted-to-reiterate-g97Upj-clipart.gif)
 
