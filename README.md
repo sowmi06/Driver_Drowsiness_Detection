@@ -34,7 +34,7 @@ The inclining in road accidents is one of the most prevailing problems around th
 
 According to statistics from the US NHTSA out of 1,00,000 accidents reported annually, 76,000 crashes are due to drowsiness. In Australia, about 6% of accidents happen due to drowsiness and UK reports approximately 20% of the accidents by fatigue. These statistics infer the importance of a drowsiness detection system is unavoidable and motivated to build a detection system as a precautionary measure to avoid road accidents. A common solution to the drowsiness detection problem is to develop a model that detects the sleepiness in drivers in an early stage to prevent accidents by considering several common signs and alert the driver if any of the signs are frequently detected. This project proposes to develop a robust model to detect the sleepiness in drivers by capturing behavior-based images such as yawning, eye blinking, and head-nodding states. 
 
-
+The below is the link of the research paper: https://drive.google.com/file/d/1kMXh2s2rO8xhnuwF6fUWGty2dCvGO_2N/view?usp=sharing
 
 
 ## Configuration Instructions
