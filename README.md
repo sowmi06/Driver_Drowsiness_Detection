@@ -7,7 +7,7 @@
 
 ![](http://www.clipartsuggest.com/images/730/know-drowsy-driving-has-been-a-topic-before-i-wanted-to-reiterate-g97Upj-clipart.gif)
 
-![](C:\Lakehead University\2. Deep Learning course materials\Final Project\SUN397_dataset\Test\abbey\sun_aaoobkuoknkbutop.jpg)
+![plot](C:\Lakehead University\2. Deep Learning course materials\Final Project\SUN397_dataset\Test\abbey\sun_aaoobkuoknkbutop.jpg)
 
 ## Table of contents
 
