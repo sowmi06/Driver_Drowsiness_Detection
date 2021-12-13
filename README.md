@@ -37,7 +37,7 @@ According to statistics from the US NHTSA out of 1,00,000 accidents reported ann
 
 
 ## Configuration Instructions
-The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requires the following tools and libraries to run the [source code](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py)
+The [Project](https://github.com/sowmi06/Driver_Drowsiness_Detection.git) requires the following tools and libraries to run the [source code](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/Source_Code/Drowsiness_Detection.py).
 ### System Requirements
 
 - GPU based CUDA®-enabled card (Ubuntu and Windows)
