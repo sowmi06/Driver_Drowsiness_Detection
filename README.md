@@ -17,10 +17,7 @@
 1.  [Installation Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#installation-instructions)
 1.  [Operating Instructions](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#operating-instructions)
 1.  [Manifesting Directory structure](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#manifesting-directory-structure)
-1.  [Copyrights](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#copyrights)
 1.  [Contact](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#contact)
-1.  [Bugs](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#bugs)
-1.  [Project Status](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#project-status)
 1.  [References](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md#references)
 
 
@@ -195,18 +192,9 @@ The following directory structure is required to replicate exact results acquire
 [Readme.md](https://github.com/sowmi06/Driver_Drowsiness_Detection/blob/main/README.md) - Readme file to execute the project. 
 
 
-
-## Copyrights
-The project is under the [GNU (General Public License v3.0)](LICENSE). Refer [LICENSE](LICENSE) file for more information.
-
 ## Contact  
 Feel free to drop an [email](mailto:sowmidevaraj06@gmail.com) for any help. 
 
-## Bugs
-The code is a finalized and free from bugs.
-
-## Project Status
-I am still working on the project to increase the accuracy of the proposed model with different combination of CNN and feature selection methods. 
 
 ## References 
 - Anaconda Navigator : https://docs.anaconda.com/anaconda/navigator/install/
